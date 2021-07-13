@@ -1,0 +1,7 @@
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\bin\Debug\Spaceman.exe.config
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\bin\Debug\Spaceman.exe
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\bin\Debug\Spaceman.pdb
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\obj\Debug\Spaceman.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\obj\Debug\Spaceman.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\obj\Debug\Spaceman.exe
+D:\OneDrive\Desktop\C# Code and Games\Spaceman\Spaceman\obj\Debug\Spaceman.pdb
